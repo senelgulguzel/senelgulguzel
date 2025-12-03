@@ -1,9 +1,9 @@
 ## Hi there 👋
 <p align="center">
-  <marquee width="60%" direction="left" scrollamount="5">
-    AI Engineer • Machine Learning • Computer Vision • MLOps • Data Engineering
-  </marquee>
+<img src="https://github-readme-stats.vercel.app/api?username=senelgulguzel&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senelgulguzel&layout=compact&theme=tokyonight" />
 </p>
+
 
 <!--
 **senelgulguzel/senelgulguzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
