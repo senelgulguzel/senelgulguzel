@@ -1,4 +1,9 @@
 ## Hi there 👋
+<p align="center">
+  <marquee width="60%" direction="left" scrollamount="5">
+    AI Engineer • Machine Learning • Computer Vision • MLOps • Data Engineering
+  </marquee>
+</p>
 
 <!--
 **senelgulguzel/senelgulguzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
