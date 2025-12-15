@@ -1,66 +1,81 @@
-## Hi there 👋
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=senelgulguzel&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senelgulguzel&layout=compact&theme=tokyonight" />
-</p>
+AI Engineer · Agent Architect · Data Systems Builder
 
+I don’t just build models —
+I design intelligent systems that think, make decisions, and take action.
 
-## 👋 Hi, I'm Şenel Gül Güzel
+I work on agent-based AI architectures where LLMs, data pipelines, and automation come together to solve real operational problems.
+My focus is on turning complexity into autonomous, scalable systems.
 
-🚀 **AI Engineer | Data Analyst | Agent-Based Systems Builder**
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=senelgulguzel&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senelgulguzel&layout=compact&theme=tokyonight" /> </p>
+🧩 What I actually built
 
-I design and develop **agent-based AI systems** that transform complex workflows into scalable, automated, and intelligent pipelines.  
-My work sits at the intersection of **LLMs, data engineering, and automation**, with a strong focus on real-world impact.
+🤖 Autonomous & Multi-Agent Systems
+Agents that reason, use tools, collaborate, and execute tasks end-to-end
 
----
+🧠 LLM-driven Applications
+Prompt engineering, tool/function calling, structured outputs, decision logic
 
-### 🔭 What I’m working on
-- 🤖 **AI Agents & Multi-Agent Systems** for task orchestration and decision-making  
-- 🧠 **LLM-powered applications** (prompt engineering, tool calling, function routing)
-- 📚 **RAG architectures** (vector databases, embeddings, retrieval optimization)
-- ⚙️ **End-to-end automation pipelines** (data → model → deployment)
+📚 RAG Systems that work in production
+Vector search, hybrid retrieval, ranking, evaluation, & hallucination control
 
----
+⚙️ Automation-first architectures
+Data → logic → model → deployment pipelines designed for scale
 
-### 🧩 Core Expertise
-- **LLMs & NLP:** OpenAI / Hugging Face, fine-tuning, embeddings, semantic search  
-- **Agent Frameworks:** autonomous agents, tool-using agents, workflow-driven AI  
-- **Data Engineering:** ETL pipelines, data preprocessing, feature engineering  
-- **Databases:**  
-  - 🟢 NoSQL: **MongoDB**  
-  - 🔵 SQL: **PostgreSQL**  
-- **Vector Search & Retrieval:** similarity search, hybrid retrieval, ranking  
-- **MLOps & Dev:** Docker, APIs, scalable model deployment
+🛠 Tech I’m fluent in
 
----
+AI & ML
 
-### 🌱 Currently learning & exploring
-- Advanced **multi-agent collaboration patterns**
-- **Production-grade RAG** (evaluation, hallucination reduction)
-- AI systems that combine **reasoning + memory + tools**
+LLMs (OpenAI, Hugging Face)
 
----
+Embeddings, semantic search, similarity systems
 
-### 👯 Open to collaborate on
-- AI agent frameworks & automation tools  
-- LLM / RAG-based products  
-- Data-heavy, real-world ML systems  
+NLP pipelines, model integration
 
----
+Data & Infrastructure
 
-### 💬 Ask me about
-- Building AI agents from scratch  
-- Designing scalable RAG pipelines  
-- Turning messy data into intelligent systems  
+ETL pipelines & data preprocessing
 
----
+🟢 MongoDB (NoSQL)
 
-### 📫 How to reach me
-- GitHub: [@senelgulguzel](https://github.com/senelgulguzel)
-- LinkedIn: *(add your link here)*
+🔵 PostgreSQL (SQL)
 
----
+Vector databases & retrieval layers
 
-⚡ **Fun fact:**  
-I enjoy breaking complex AI systems into clean, reusable building blocks — and then automating them.
+Engineering
 
+Docker, APIs, scalable deployments
+
+MLOps mindset (not just notebooks)
+
+🌱 Currently exploring
+
+Multi-agent collaboration & planning strategies
+
+Long-term memory & reasoning patterns for agents
+
+Evaluation-driven RAG (measure → improve → deploy)
+
+🤝 Open to collaborating on
+
+Agent frameworks & AI automation platforms
+
+LLM / RAG-powered products
+
+Data-heavy, real-world ML systems
+
+💬 Ask me about
+
+Designing agent architectures from scratch
+
+Building reliable RAG pipelines
+
+Turning messy data into autonomous systems
+
+📫 Reach me
+
+GitHub: @senelgulguzel
+
+LinkedIn: https://www.linkedin.com/in/senelgulguzel
+
+⚡ Fun fact
+I enjoy decomposing complex AI systems into primitives — then letting agents run the show.
