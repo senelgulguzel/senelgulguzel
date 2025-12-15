@@ -1,4 +1,6 @@
-AI Engineer · Agent Architect · Data Systems Builder
+## 👋 Hi, I'm Şenel Gül Güzel
+
+AI Engineer · Agent Builder · Data Engineer
 
 I don’t just build models —
 I design intelligent systems that think, make decisions, and take action.
