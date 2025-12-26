@@ -44,21 +44,7 @@ I build **automation-first architectures** designed for scale, where every compo
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senelgulguzel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senelgulguzel&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senelgulguzel&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
-</p>
-
----
 
 ##  Tech Stack
 
@@ -91,20 +77,6 @@ I build **automation-first architectures** designed for scale, where every compo
 
 ---
 
-## 🌟 Featured Projects
-
-<!-- Projelerinizi buraya ekleyebilirsiniz -->
-<!-- 
-### 🤖 [Project Name](link)
-Brief description of what the project does and technologies used.
-
-### 📊 [Project Name](link)
-Brief description of what the project does and technologies used.
--->
-
-*Coming soon - Building in public* 🚧
-
----
 
 ## Let's Connect
 
