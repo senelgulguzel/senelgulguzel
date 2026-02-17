@@ -1,4 +1,4 @@
-# Hi, I'm Şenel Gül Güzel 👋
+# Hi, I'm Şenel Gül Güzel 
 
 <div align="center">
   
